@@ -1,0 +1,6 @@
+{
+  "name": "XFS ATM Console",
+  "description": "WIN10-IOT-ATM-042 CEN/XFS Terminal Fascia, Hardware Telemetry, Cassette Replenishment & NDC/ISO-8583 Service Console",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

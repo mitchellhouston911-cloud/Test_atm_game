@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">XFS ATM Console</string>
+    <string name="terminal_id_badge">WIN10-IOT-ATM-042</string>
+    <string name="xfs_version_badge">CEN/XFS 3.30 SP</string>
+    <string name="ndc_online_badge">NDC+ HOST ONLINE</string>
+    <string name="ndc_maint_badge">SOP MAINT LOCK</string>
+    <string name="ndc_fault_badge">XFS DEVICE FAULT</string>
+    <string name="supervisor_key_normal">SUPERVISOR KEY: NORMAL</string>
+    <string name="supervisor_key_maint">SUPERVISOR KEY: SOP MAINT</string>
+    <string name="tab_customer_fascia">1. Customer Bezel</string>
+    <string name="tab_xfs_hardware">2. XFS SP Telemetry</string>
+    <string name="tab_cassettes">3. Cash Cassettes</string>
+    <string name="tab_ndc_trace">4. NDC / ISO-8583</string>
+    <string name="compliance_notice">Training &amp; Hardware Diagnostics Simulator (Offline CEN/XFS Lab — No Live Banking)</string>
+</resources>
